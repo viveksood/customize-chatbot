@@ -85,62 +85,7 @@
       ],
       "responses": [
         "We are open 7am-4pm Monday-Friday!"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "check",
-      "patterns": [
-        "abuse",
-        "gandi",
-        "baat"
-      ],
-      "responses": [
-        "stop"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "bk",
-      "patterns": [
-        "bk"
-      ],
-      "responses": [
-        "chutiya"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "lol",
-      "patterns": [
-        "stop"
-      ],
-      "responses": [
-        "typequit"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "let",
-      "patterns": [
-        "abuse",
-        "gandi",
-        "baat"
-      ],
-      "responses": [
-        "stop"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "bk",
-      "patterns": [
-        "bk"
-      ],
-      "responses": [
-        "chutiya"
-      ],
-      "context_set": ""
+      ]
     }
-  ]
+      
 }
